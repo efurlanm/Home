@@ -1,9 +1,9 @@
-site_name: Language Design and Implementation
+site_name: Home
 site_author: Eduardo Furlan
-site_url: https://efurlanm.github.io/ldi/
+site_url: https://efurlanm.github.io/home/
 copyright: CC BY 4.0 License
-repo_name: LDI
-repo_url: http://github.com/efurlanm/ldi/
+repo_name: home
+repo_url: http://github.com/efurlanm/home/
 docs_dir: src
 site_dir: docs
 theme:
@@ -21,7 +21,7 @@ plugins:
         post_readtime: false
     - macros
 extra:
-    repo: https://github.com/efurlanm/ldi/tree/main/src/
+    repo: https://github.com/efurlanm/home/tree/main/src/
 extra_css:
     - css/extra.css
     - https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css
