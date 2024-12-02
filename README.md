@@ -1,6 +1,6 @@
-# My personal notes
+# My personal random notes
 
-My personal notes that I collect over time on the most varied subjects.
+My personal random notes that I collect over time on the most varied subjects.
 
 Website: <https://efurlanm.github.io/home>
 
