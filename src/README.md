@@ -1,4 +1,4 @@
-# Eduardo Furlan's page
+# Eduardo Furlan's Notes
 
 My random personal notes that I collect over time, on the most varied subjects, such as design and implementation of language, theory, internals, high performance processing, computer architecture, machine learning, programming, books, links, tips and tricks, curiosities and others.
 
