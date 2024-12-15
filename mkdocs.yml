@@ -1,0 +1,40 @@
+site_name: Moving Forth
+site_author: Eduardo Furlan
+site_url: https://efurlanm.github.io/home/
+copyright: CC BY 4.0 License
+
+# Repository
+repo_name: home
+repo_url: http://github.com/efurlanm/home/
+
+# Configurarion
+docs_dir: moving_forth
+site_dir: docs
+theme:
+    name: material
+    # squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+    palette:
+        primary: orange
+        accent: orange
+    font: false  # no external folts
+    features:
+        - header.autohide
+plugins:
+    - search
+#extra:
+    #repo: https://github.com/efurlanm/home/tree/main/moving_forth/
+extra_javascript:
+    - javascripts/katex.js
+    - javascripts/katex/katex.min.js
+    - javascripts/katex/contrib/auto-render.min.js
+extra_css:
+    - javascripts/katex/katex.min.css
+    - css/extra.css
+markdown_extensions:
+    - def_list
+    - md_in_html
+    - tables
+    - pymdownx.arithmatex:
+        generic: true  # used with katex
+exclude_docs: |
+    .*

@@ -6,9 +6,9 @@
 
 ## Notebooks
 
-* [cheasheeaux.ipynb]({{repo}}python/notebooks/cheasheeaux.ipynb) - auxiliary Notebook used in the cheat sheet to confirm the operation of some items.
+* [cheasheeaux.ipynb](notebooks/cheasheeaux.ipynb) - auxiliary Notebook used in the cheat sheet to confirm the operation of some items.
 
 ## Other files
 
 * [python-folha-de-consulta-v17.2.html](python-folha-de-consulta-v17.2.html) - 2024-11-26 backup copy of the original document.
-* [variables.ipynb]({{repo}}python/notebooks/variables.ipynb) - my personal notes on how Python variables work.
+* [variables.ipynb](notebooks/variables.ipynb) - my personal notes on how Python variables work.

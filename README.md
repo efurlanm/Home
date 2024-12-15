@@ -9,14 +9,8 @@ My random personal notes that I collect over time, on the most varied subjects, 
     </tr>
 </table>
 
-## Blog
-
-I keep a personal blog containing short random notes that I collect over time on the most varied subjects. Use the menu to access.
-
 
 ## Selected topics
-
-Some selected notes. There are several others on the blog or in the menu. (not ordered)
 
 * [Python](python/README.md) - my personal notes on Python-related topics that I find interesting.
 * [Moving Forth](Moving_Forth/README.md) - my personal notes on Brad Rodriguez's Moving Forth.

@@ -5,7 +5,7 @@ This page contains my personal notes on Python-related topics that I find intere
 ## Files & directories
 
 * [cheatsheet/](cheatsheet/README.md) -  Python Cheat Sheet, by Valdemar W. Setzer. The directory contains my attempt to help build the cheat sheet by describing some functions and modules that are not yet in the sheet.
-* [variables.ipynb]({{repo}}python/notebooks/variables.ipynb) - my personal notes on how Python variables work.
+* [variables.ipynb](notebooks/variables.ipynb) - my personal notes on how Python variables work.
 
 ## Random notes
 
